@@ -1,0 +1,8 @@
+{
+  "notebook": "Task2_Uber_Fare_Preprocessing_and_Regression.ipynb",
+  "pipeline": "final_regression_pipeline.joblib",
+  "presentation": "Task2_Uber_Fare_Presentation.html",
+  "dataset": "data/uber_fare_eda_clean.csv",
+  "test_predictions": "test_predictions.csv",
+  "pipeline_helper_module": "uber_features.py"
+}
